@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+suhwan's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=57bcda&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=57bcda&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+suhwan's+GitHub!👋)](https://git.io/typing-svg)
 
 ## &#127793;The future depends on what we do in th present
 I'm currently studying in SSAFY now.  
 Interested in a backend developer.
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suwhan2&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suwhan2&show_icons=true&theme=react)
 
 ## &#128222;Contact
 <a href="https://www.instagram.com/chltnghks_/" target="_blank">

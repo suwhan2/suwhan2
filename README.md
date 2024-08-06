@@ -8,11 +8,7 @@ Interested in a backend developer.
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suwhan2&show_icons=true&theme=react)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwh0801)](https://solved.ac/shwh0801/)
-## &#128222;Contact
-<a href="https://www.instagram.com/chltnghks_/" target="_blank">
-<img src="https://img.shields.io/badge/chltnghks_-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>  
 
-<br>
 
 ## Stack
 

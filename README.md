@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=57bcda&text=&animation=twinkling&height=80)
 
 
-## &#127793; The future depends on what we do in th present
+## &#127793; The future depends on what we do in the present
 I'm currently studying in SSAFY now.  
 Interested in a backend developer.
 <br>
